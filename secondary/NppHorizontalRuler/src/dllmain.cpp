@@ -159,11 +159,8 @@ bool setCommand(size_t index, TCHAR *cmdName, PFUNCPLUGINCMD pFunc, ShortcutKey 
 void aboutDlg()
 {
 	::MessageBox(NULL, 
-				TEXT("The author is Japanese.\n")
-				TEXT("Unfortunately not in English.\n")
-				TEXT("This translation also will make bing.\n")
-				TEXT("\n")
-				TEXT("Bugs and wishes there was other please email until freesftys@yahoo.co.jp.\n"),
-				TEXT("Horizontal Ruler Plugins"),
+				TEXT("NotePad++ Horizontal Ruler plug-in was developed by a very gracious person in Japan, who appears to have not worked on this project for some time.  The current email address listed for the author is freesftys@gmail.com, and the original source code can be found at https://code.google.com/archive/p/freesftys-project \n")
+				TEXT("The code was then translated into English and made available to all.\n"),
+				TEXT(""),
 				MB_OK);
 }
