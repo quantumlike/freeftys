@@ -14,7 +14,7 @@ NppYUniUtil  \
 the orginal all appears to be in japanese   \
 http://freesftys.lv9.org/app/npp/   \
 
-Note from quantumlike @ March 13, 2019 :  \
+### Note from quantumlike @ March 13, 2019 :  \
 Download the whole source code from https://code.google.com/archive/p/freesftys-project/source/default/source.   \
 Upload to https://github.com/quantumlike/freeftys/blob/master/source-archive.zip .  \
 
