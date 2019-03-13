@@ -1,22 +1,22 @@
-# freeftys   \
-freefyts code salvaged from google code   \
+# freeftys   
+freefyts code salvaged from google code   
 
-hi all.. i've salvaged the code from https://code.google.com/archive/p/freesftys-project/ as i wanted to use the notepadd++ plugins   \
+hi all.. i've salvaged the code from https://code.google.com/archive/p/freesftys-project/ as i wanted to use the notepadd++ plugins   
 
 NppDetectEncoding  \
 NppDynamicFonts  \
 NppHorizontalRuler  \
 NppJpSelectAreaCustomize  \
 NppYEtc  \
-NppYUniUtil  \
+NppYUniUtil  
 
 
 the orginal all appears to be in japanese   \
-http://freesftys.lv9.org/app/npp/   \
+http://freesftys.lv9.org/app/npp/   
 
 ### Note from quantumlike @ March 13, 2019 :  
 Download the whole source code from https://code.google.com/archive/p/freesftys-project/source/default/source.   \
-Upload to https://github.com/quantumlike/freeftys/blob/master/source-archive.zip .   \
+Upload to https://github.com/quantumlike/freeftys/blob/master/source-archive.zip .   
 
 The plugin .dll zip file of NppYUniUtil plugin, https://github.com/quantumlike/freeftys/blob/master/secondary/NppYUniUtil/NppYUniUtil.dll is downloaded from http://freesftys.lv9.org/app/npp/soft/NppYUniUtil-0.1.18.zip .   \
 It is put under https://github.com/quantumlike/freeftys/tree/master/secondary/NppYUniUtil .  \
